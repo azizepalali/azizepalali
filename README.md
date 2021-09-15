@@ -10,7 +10,7 @@ My goal is not to end the day without learning something new. I think you should
 
 
 
-		-                                                          -
+		-                                                                             -
 
 
 -🔭 Python,
@@ -26,7 +26,7 @@ My goal is not to end the day without learning something new. I think you should
 -⚡ PowerBI,
 
 
-		                                    -
+		                                              -
 
 My Contacts:
 - azizebilge2@gmail.com
