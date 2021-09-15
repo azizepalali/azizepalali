@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-My goal is not to end the day without learning something new. I think you should try too
+My goal is not to end the day without learning something new. I think you should try too 😄
 
 
 
