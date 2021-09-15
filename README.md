@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-🔭 Python
-🌱 Data Science
-👯 Artificial Intelligence(AI)
-💬 Deep Learning
-📫 Big Data,
-⚡ PowerBI
+🔭 #Python
+🌱 #Data Science
+👯 #Artificial Intelligence(AI)
+💬 #Deep Learning
+📫 #Big Data,
+⚡ #PowerBI
