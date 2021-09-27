@@ -32,3 +32,4 @@ My Contacts:
 - azizebilge2@gmail.com
 - https://www.linkedin.com/in/azize-sultan/
 - https://www.kaggle.com/azizesultanbilge
+- https://medium.com/@azizepalali
